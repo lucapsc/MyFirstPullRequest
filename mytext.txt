@@ -1,1 +1,0 @@
-Hello, I am editing this from my terminal on my computer using VIM. I could probably do it on github in a codespace, but this makes me feel like a baller.
